@@ -34,7 +34,7 @@ Models are evaluated based on accuracy, precision, recall, F1 score, ROC-AUC sco
 * Python version: 3.x
 * Required libraries: pandas, numpy, sklearn, matplotlib, seaborn, xgboost
 
-**usage**
+**Usage**
 
 Run the notebook cells sequentially to load the data, preprocess it, train the models, and evaluate their performance.
 
